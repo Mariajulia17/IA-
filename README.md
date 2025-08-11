@@ -23,5 +23,6 @@ En este trabajo se estará exportando una base de datos de UCI Machine Learning 
 
 Este proyecto incluye los siguientes documentos:
 
- [Proyecto en formato ipynb:] (https://jupyter.org/try-jupyter/lab/index.html?path=notebooks%2FIA%2FP1%2FTarea%2FObesidad.ipynb)
+ [Proyecto en formato ipynb](https://jupyter.org/try-jupyter/lab/index.html?path=notebooks%2FIA%2FP1%2FTarea%2FObesidad.ipynb)
+
  Proyecto en formato HTML: 
