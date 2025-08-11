@@ -25,4 +25,6 @@ Este proyecto incluye los siguientes documentos:
 
  [Proyecto en formato ipynb](https://jupyter.org/try-jupyter/lab/index.html?path=notebooks%2FIA%2FP1%2FTarea%2FObesidad.ipynb)
 
- Proyecto en formato HTML: 
+ [Proyecto en formato HTML](https://github.com/Mariajulia17/IA-/blob/2b95c24bf424afa5963b3cd170af67a4e25271f8/Obesidad.html)
+
+ [Base de datos]()
