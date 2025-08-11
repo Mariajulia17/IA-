@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="es">
+<meta charset="utf-8">
+<title>IA – Entregable</title>
+<h1>Entradas</h1>
+
+<!-- Abre como página -->
+<p><a href="Obesidad.html">➡️ Ver reporte (HTML)</a></p>
+
+<!-- Fuerza descarga desde Pages (misma origin) -->
+<p><a href="Obesidad.ipynb" download>⬇️ Descargar notebook (.ipynb)</a></p>
+<p><a href="Obesidad.csv" download>⬇️ Descargar datos (.csv)</a></p>
+
+<!-- Fallback por si algún navegador ignora 'download' -->
+<script>
+  function forceDownload(path, filename){
+    fetch(path).then(r=>r.blob()).then(b=>{
+      const url = URL.createObjectURL(b);
+      const a = document.createElement('a');
+      a.href = url; a.download = filename; document.body.appendChild(a);
+      a.click(); URL.revokeObjectURL(url); a.remove();
+    });
+  }
+</script>
+<p>
+  
