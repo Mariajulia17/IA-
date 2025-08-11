@@ -27,4 +27,4 @@ Este proyecto incluye los siguientes documentos:
 
  [Proyecto en formato HTML](https://github.com/Mariajulia17/IA-/blob/2b95c24bf424afa5963b3cd170af67a4e25271f8/Obesidad.html)
 
- [Base de datos]()
+ [Base de datos](https://github.com/Mariajulia17/IA-/blob/c1e6db1440f615d5c33109d4bf3a56a6e69aac05/Obesidad.csv)
